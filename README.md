@@ -2,7 +2,7 @@
 
 A drop-in PHP script to list the contents of a directory
 
-[http://www.calebh.com/misc/php-filelist-example/](Example)
+[Example](http://www.calebh.com/misc/php-filelist-example/)
 
 ## How to use
 1. Place index.php in a directory of your choice
