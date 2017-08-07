@@ -1,6 +1,6 @@
 <html>
 	<!--
-		php-filelist
+		php-filelist (https://github.com/cjlh/php-filelist)
 		author: Caleb Hamilton
 		website: calebh.com
 	-->
